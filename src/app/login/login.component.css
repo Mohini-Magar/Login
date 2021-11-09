@@ -1,0 +1,15 @@
+form{
+  padding-top: 20px;
+  padding-left: 30%;
+}
+
+input{
+  width: 50%;
+
+}
+.alert{
+  width: 50%;
+  height: 40px;
+  padding-bottom: 10px;
+  padding-top: 5px;
+}
